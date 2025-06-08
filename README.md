@@ -1,13 +1,21 @@
-# 👋 Hey there, I'm Arthur Freire
+# 👋 Oi! I'm Arthur Freire
 
-🎓 **Computer Science @ UCF** | 🔐 **Cybersecurity Minor**  
-💻 Programmer | 🧠 AI & Systems Enthusiast | 🌎 🇧🇷 Bilingual (Portuguese + English)
+I’m a Brazilian Computer Science student at UCF, passionate about tech, creativity, and solving real-world problems.  
+From low-level systems to web interfaces, I love building things that work — and look good doing it.
 
 ---
 
-## 🛠️ Tech Stack & Tools
-Here are the languages and tools I work with:
+## 🧠 Interests & Passions
+- 🔐 Cybersecurity & systems programming
+- 🧠 AI, machine learning, and automation
+- 💻 Building apps with React, Java, and Python
+- 🧩 Problem solving, optimization, and software design
+- 🎨 Mixing tech with creativity
+- 🏐 Competitive volleyball & fitness
 
+---
+
+## 🛠️ Tech Stack
 **Languages:**  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -17,7 +25,7 @@ Here are the languages and tools I work with:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**Frameworks/Tools:**  
+**Frameworks & Tools:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -25,25 +33,18 @@ Here are the languages and tools I work with:
 
 ---
 
-## 🌟 About Me
-- 👨‍💻 Currently building systems and apps in **C and React**
-- 🔐 Exploring the world of **cybersecurity** and **AI**
-- 🧩 Love solving logic puzzles and understanding how things work under the hood
-- 📚 Always learning new tech and pushing myself further
-- 🏐 Ex semi-pro volleyball player who codes hard and plays harder
+## 🌎 Languages
+- 🇧🇷 Portuguese (Native)
+- 🇺🇸 English (Fluent)
+- 🇪🇸 Spanish (Basic)
 
 ---
 
-## 📈 GitHub Stats (coming soon)
-<!-- Optionally include stats when you have more public repos
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurarf&show_icons=true&theme=radical)
--->
-
----
-
-## 🔗 Let's Connect!
+## 🔗 Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Freire-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/arthurarfreire/)  
-[![GitHub](https://img.shields.io/badge/GitHub-arthurarf-black?style=flat&logo=github)](https://github.com/arthurarf)
+[![GitHub](https://img.shields.io/badge/GitHub-arthurarf-black?style=flat&logo=github)](https://github.com/arthurarf)  
+[![Instagram](https://img.shields.io/badge/Instagram-arthurarf__-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/arthurarf_/)
 
 ---
-_“Why take life so serious? That’s the only one you have.”_
+
+_“I have not failed. I’ve just found 10,000 ways that won’t work.”_
