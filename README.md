@@ -8,10 +8,9 @@ From low-level systems to web interfaces, I love building things that work — a
 ## 🧠 Interests & Passions
 - 🔐 Cybersecurity & systems programming
 - 🧠 AI, machine learning, and automation
-- 💻 Building apps with React, Java, and Python
+- 💻 Building apps with Java and Python
 - 🧩 Problem solving, optimization, and software design
 - 🎨 Mixing tech with creativity
-- 🏐 Competitive volleyball & fitness
 
 ---
 
